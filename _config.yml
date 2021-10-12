@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "구소연"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Lp.png"
   bio              : "소확행을 꿈꾸는 몽상가"
   location         : "대한민국, 서울"
   email            : "shelly-9@naver.com"
